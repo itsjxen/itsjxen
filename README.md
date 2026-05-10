@@ -1,4 +1,5 @@
 # JXEN
+<img width="2048" height="768" alt="back" src="https://github.com/user-attachments/assets/d84871de-4c4f-407f-8a0b-97782eba7230" />
 
 ### Building scalable systems, AI products, and automation workflows.
 
