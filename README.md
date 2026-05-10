@@ -1,9 +1,10 @@
 # JXEN
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:1a1a1a&text=JXEN&fontColor=ffffff&fontSize=72&fontAlign=50&fontAlignY=38&desc=Building%20Scalable%20Systems%20%7C%20AI%20Products%20%7C%20Automation&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d84871de-4c4f-407f-8a0b-97782eba7230" width="100%" />
 </p>
-<img width="2048" height="768" alt="back" src="https://github.com/user-attachments/assets/d84871de-4c4f-407f-8a0b-97782eba7230" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Java+%7C+Spring+Boot+%7C+Vue;AI+Workflow+Builder;SaaS+Architect;Redis+%7C+Docker+%7C+Elasticsearch" />
+</p>
 ### Building scalable systems, AI products, and automation workflows.
 
 Java • Spring Boot • Vue • Redis • Elasticsearch • AI • SaaS
